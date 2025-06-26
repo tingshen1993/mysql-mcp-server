@@ -1,5 +1,5 @@
 # MCP MySQL Server
-
+## 一个基于 MySQL 的工具服务
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18%2B-green" alt="Node.js Version">
   <img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License">
